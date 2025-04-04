@@ -26,7 +26,7 @@ export default function App() {
           font={helvetiker}
           size={0.5}
           height={0.1}
-          position={[-2, 2, 0]}
+          position={[-2, 1, 0]}
           bevelEnabled
           bevelThickness={0.02}
           bevelSize={0.02}
